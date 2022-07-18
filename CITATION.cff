@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Yumeng"
+  given-names: "Shao"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Donnat"
+  given-names: "Claire"
+  orcid: "https://orcid.org/0000-0001-7079-8060"
+title: "The DrugBank Graph : a drug-drug-interaction
+dataset from publicly available data"
+version: 1.0.0.
+doi: 
+date-released: 2022-07-18
+url: "https://github.com/donnate/DDI-project"
